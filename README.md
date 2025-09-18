@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Yashica Magar!  
 
-## 🚀 About Me  
+##  About Me  
 I am a passionate IT student specializing in software development, with a keen interest in both **frontend and backend development**.  I enjoy building efficient and user-friendly applications and constantly strive to improve my skills in programming, system design, and problem-solving.   
 
 Beyond coding, I have a passion for **traveling** and **exploring new gadgets**, always eager to learn about the latest technological advancements.  
