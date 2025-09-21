@@ -6,8 +6,8 @@ I am a passionate IT student specializing in software development, with a keen i
 Beyond coding, I have a passion for **traveling** and **exploring new gadgets**, always eager to learn about the latest technological advancements.  
 
 ## I'm currently learning💻 
-- **Backend:** Python, Advanced Java  
-- **Frontend:** HTML, CSS  
+- **Frontend:** React js
+- **Backend:** Python, Java  
 - **Version Control:** Git & GitHub
 - Database Management: MySQL, PostgreSQL
 - Data Analysis: Pandas, Matplotlib, Seaborn
