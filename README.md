@@ -15,7 +15,7 @@ Beyond coding, I have a passion for **traveling** and **exploring new gadgets**,
 - Designing clean and intuitive user interfaces
 - Writing clean, maintainable code and following best practices
 
-🌱 Goals
+ Goals
 - Strengthen my understanding of full-stack development
 - Contribute to open-source projects
 - Improve my communication and teamwork skills
