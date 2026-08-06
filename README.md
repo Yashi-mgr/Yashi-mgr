@@ -30,6 +30,7 @@ I'm a Computer Science graduate with an interest in software development and qua
 - Git & GitHub
 - Postman
 - VS Code
+- Visual Studio
 - IntelliJ IDEA
 
 ## Currently Learning
