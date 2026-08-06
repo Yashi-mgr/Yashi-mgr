@@ -1,50 +1,44 @@
-# Hi, I'm Yashica Magar
+<h1 align="center">Hi, I'm Yashica Magar</h1>
+
+<p align="center">
+Computer Science Graduate • Software Developer
+</p>
+
+---
 
 ## About Me
 
-I'm a Computer Science graduate with an interest in software development and quality assurance. I enjoy building web applications, learning modern technologies, and writing clean, maintainable code. I'm particularly interested in frontend development, backend systems, and software testing, and I'm continuously expanding my skills through personal and academic projects.
+- Computer Science graduate with an interest in full-stack web development and software quality.
+- Experience building academic and personal projects using React, Next.js and Spring Boot.
+- Interested in writing clean, maintainable code and designing intuitive user interfaces.
+- Currently expanding my knowledge of software testing and modern web technologies.
 
-## Technologies
+---
 
-**Languages**
-- Java
-- Python
-- JavaScript
-- C#
+## Tech Stack
 
-**Frontend**
-- React.js
-- Next.js
-- Tailwind CSS
-- Gsap
+### Frontend
 
-**Backend**
-- Spring Boot
-- REST APIs
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,js" />
+</p>
 
-**Databases**
-- MySQL
-- PostgreSQL
+### Backend
 
-**Tools**
-- Git & GitHub
-- Postman
-- VS Code
-- Visual Studio
-- IntelliJ IDEA
+<p>
+<img src="https://skillicons.dev/icons?i=java,spring,python,nodejs" />
+</p>
 
-## Currently Learning
+### Database
 
-- Advanced React and Next.js
-- Spring Boot application development
-- Software testing and quality assurance practices
-- Writing scalable and maintainable applications
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres" />
+</p>
 
-## Interests
+### Tools
 
-- Full-stack web development
-- Software quality and testing
-- User interface design
-- Open-source development
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,idea,postman,figma" />
+</p>
 
-I'm always open to learning, collaborating, and contributing to meaningful projects.
+---
