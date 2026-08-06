@@ -1,25 +1,49 @@
-# 👋 Hi, I'm Yashica Magar!  
+# Hi, I'm Yashica Magar
 
-##  About Me  
-I am a passionate IT student specializing in software development, with a keen interest in both **frontend and backend development**.  I enjoy building efficient and user-friendly applications and constantly strive to improve my skills in programming, system design, and problem-solving.   
+## About Me
 
-Beyond coding, I have a passion for **traveling** and **exploring new gadgets**, always eager to learn about the latest technological advancements.  
+I'm a Computer Science graduate with an interest in software development and quality assurance. I enjoy building web applications, learning modern technologies, and writing clean, maintainable code. I'm particularly interested in frontend development, backend systems, and software testing, and I'm continuously expanding my skills through personal and academic projects.
 
-## I'm currently learning💻 
-- **Frontend:** React js
-- **Backend:** Python, Java  
-- **Version Control:** Git & GitHub
-- Database Management: MySQL, PostgreSQL
-- Data Analysis: Pandas, Matplotlib, Seaborn
-- Software Engineering Principles and Object-Oriented Design
-- Designing clean and intuitive user interfaces
-- Writing clean, maintainable code and following best practices
+## Technologies
 
- Goals
-- Strengthen my understanding of full-stack development
-- Contribute to open-source projects
-- Improve my communication and teamwork skills
+**Languages**
+- Java
+- Python
+- JavaScript
+- C#
 
+**Frontend**
+- React.js
+- Next.js
+- Tailwind CSS
+- Gsap
 
+**Backend**
+- Spring Boot
+- REST APIs
 
-I’m always open to **new opportunities, collaborations, and tech discussions**—let’s build something amazing together! 🚀  
+**Databases**
+- MySQL
+- PostgreSQL
+
+**Tools**
+- Git & GitHub
+- Postman
+- VS Code
+- IntelliJ IDEA
+
+## Currently Learning
+
+- Advanced React and Next.js
+- Spring Boot application development
+- Software testing and quality assurance practices
+- Writing scalable and maintainable applications
+
+## Interests
+
+- Full-stack web development
+- Software quality and testing
+- User interface design
+- Open-source development
+
+I'm always open to learning, collaborating, and contributing to meaningful projects.
