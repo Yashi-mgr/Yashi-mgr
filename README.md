@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Yashica Magar</h1>
 
 <p align="center">
-Computer Science Graduate • Software Developer
+Computing Graduate • Software Developer
 </p>
 
 ---
